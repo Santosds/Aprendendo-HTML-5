@@ -9,3 +9,8 @@ h1 {
 h2 {
   color: aqua;
 }
+
+img {
+  width: auto;
+  height: 600px;
+}
