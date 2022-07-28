@@ -2,3 +2,6 @@ header {
   font-family:Verdana ;
   background-color: blueviolet;
 }
+h1, h2 {
+  color: yellowgreen;
+}
