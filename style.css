@@ -1,13 +1,13 @@
 header {
   font-family:Verdana ;
-  background-color: blueviolet;
+  
 }
 h1 {
-  color: yellowgreen;
+  color: rgb(107, 50, 205);
 }
 
 h2 {
-  color: aqua;
+  color: rgb(51, 255, 0);
 }
 
 img {
